@@ -1,0 +1,1 @@
+web: gunicorn --threads 100 main:run
